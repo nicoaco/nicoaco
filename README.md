@@ -1,4 +1,4 @@
-### Hi I'm Nico 👋
+### Hi! I'm Nico 👋
 
 <!--
 **nicoaco/nicoaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
